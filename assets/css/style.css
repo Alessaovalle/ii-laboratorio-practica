@@ -1214,7 +1214,7 @@ a:hover {
 --------------------------------------------------------------*/
 @media (min-width: 1200px) {
   .card-blog {
-   align-items: center;
+
     margin-bottom: 3rem;
   }
 }
